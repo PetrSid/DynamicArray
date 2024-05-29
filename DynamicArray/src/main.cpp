@@ -3,7 +3,7 @@
 int main()
 {
 	size_t length = 5;
-	dynamic_array<int> array(length);
+	ary::dynamic_array<int> array(length);
 
 	return 0;
 }
